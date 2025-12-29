@@ -1,2 +1,0 @@
-# DuDoanBenhGanDuaTrenDuLieu_KNN
-
